@@ -1,4 +1,6 @@
 # UQbio2024_Team6 Drug-E
+
+STAGE 1
 1. Load image dataset
 2. Make mask to determine treshold(0,1)
     -> cell
