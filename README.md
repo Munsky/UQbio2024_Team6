@@ -12,14 +12,14 @@ STAGE 1
     ->protein concentrations
     ->transcription site intensity
 
-2. Make mask to determine treshold(0,1)
+3. Make mask to determine treshold(0,1)
     -> cell number
     -> nucleus number
     -> mRNA number
     
-3. Grayscale image (0-225) (min-max value)
+4. Grayscale image (0-225) (min-max value)
     -> intensity
-4. Measure the grayscale on the segment area at each timepoint
-5. Measure the sum of pixels on the segment area (they should be the same for cell)
-6. Divide intenisty by area.
-7. output a table (csv type) with : time, cell, type of analysis, sum of pix intensity, area of structure.
+5. Measure the grayscale on the segment area at each timepoint
+6. Measure the sum of pixels on the segment area (they should be the same for cell)
+7. Divide intenisty by area.
+8. output a table (csv type) with : time, cell, type of analysis, sum of pix intensity, area of structure.
