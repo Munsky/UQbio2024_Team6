@@ -2,7 +2,8 @@
 
 STAGE 1
 1. Load image dataset (tif file)
-2. Make and define variables/types 
+2. Make and define variables/types
+    
     -> cell number (int)
     -> nucleus number (int)
     -> number of mRNA (int)
