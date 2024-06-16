@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Module4-ModelingBiochemicalReactions"
+		},
+		{
+			"path": "../Module5-BayesianThinkingAndMCMC"
+		}
+	],
+	"settings": {}
+}
